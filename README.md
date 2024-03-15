@@ -27,8 +27,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [nees101/FrontendMentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/65f329952f40450f9191f578/challenge/refactor)
-- Live Site URL: [nees101/github](https://nees101.github.io/Blog-Preview-Card/)
+- Solution URL: [nees101/FrontendMentor](https://www.frontendmentor.io/solutions/recipe-page-using-html-and-css-YJ00kSLgat)
+- Live Site URL: [nees101/github](https://nees101.github.io/Recipie-page/)
 
 ## My process
 
